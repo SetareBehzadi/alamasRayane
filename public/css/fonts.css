@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'BJadidBold';
+    src: url('/fonts/BJadidBold.eot?#') format('eot'),  /* IE6–8 */
+    url('/fonts/BJadidBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/BJadidBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+@font-face {
+    font-family: 'BKoodakBold';
+    src: url('/fonts/BKoodakBold.eot?#') format('eot'),  /* IE6–8 */
+    url('/fonts/BKoodakBold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('/fonts/BKoodakBold.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+}
+
+.BKoodakBold {
+    font-family: BKoodakBold, Arial, Helvetica, sans-serif;
+}
+
+.BJadidBold {
+    font-family: BJadidBold, Arial, Helvetica, sans-serif;
+}
